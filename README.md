@@ -1,3 +1,4 @@
 # First-demo
-This ia my first Git Repository.
+This is my first Git Repository.
+<br>
 Author ~ Devanshi Goyal
